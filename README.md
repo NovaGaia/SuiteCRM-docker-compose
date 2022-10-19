@@ -5,6 +5,7 @@
 Add those env vars :
 - `DATABASE_USER`
 - `DATABASE_PASSWORD`
+- `MARIADB_ROOT_PASSWORD`
 - `HOST`
 - `EMAIL`
 
