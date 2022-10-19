@@ -13,3 +13,10 @@ With `.env` file
 Do `cp .env.template .env`
 
 Or in your system env vars.
+
+## Start
+
+> Change first!
+
+- user: `user`
+- pass: `bitnami`
