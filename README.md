@@ -7,3 +7,8 @@ Add those env vars :
 - `DATABASE_PASSWORD`
 - `HOST`
 - `EMAIL`
+
+With `.env` file
+Do `cp .env.template .env`
+
+Or in your system env vars.
